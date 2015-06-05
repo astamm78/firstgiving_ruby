@@ -5,6 +5,8 @@
 
 FirstGiving Ruby Client Open Source.
 
+EightBit Studios Fork to include the 'CARDONFILE' POST call
+
 ## Installation
 
 Add this line to your application's Gemfile:
