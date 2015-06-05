@@ -36,6 +36,7 @@ Or install it yourself as:
     FG.donation.creditcard(params)
     FG.donation.verify(params)
     FG.donation.recurring_creditcard_profile(params)
+    FG.donation.cardonfile(params)
     
 # Search API
     
